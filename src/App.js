@@ -2,6 +2,14 @@ import React, { Component } from 'react';
 import PaintingContainer from './paintings/PaintingContainer';
 import MuseumPicker from './paintings/MuseumPicker';
 
+// App
+  // MuseumPicker
+  // PaintingContainer
+    // PaintingShow
+    // PaintingList
+      // PaintingListItem
+
+
 class App extends Component {
   render() {
     return (

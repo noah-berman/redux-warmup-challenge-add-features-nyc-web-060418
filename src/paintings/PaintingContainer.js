@@ -16,6 +16,7 @@ class PaintingContainer extends Component {
   }
 
   render() {
+    console.log(this.props);
     return (
       <div className="row">
         <div className="six wide column">
